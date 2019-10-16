@@ -3,7 +3,7 @@
 Git is probably the most used [version control
 software](https://en.wikipedia.org/wiki/Version_control) on the
 planet. Unfortunately it is rather complicated. My plan for learning
-git is reading a bunch of articles and possibly a book:
+git is reading some articles and possibly a book:
 
 1. [Software Carpentry Project - Version Control with Git](https://swcarpentry.github.io/git-novice/)
 1. [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
