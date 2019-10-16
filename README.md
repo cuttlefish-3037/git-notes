@@ -11,8 +11,6 @@ git is reading a bunch of articles and possibly a book:
 1. [A git primer](https://danielmiessler.com/study/git/)
 1. [Pro Git](https://git-scm.com/book/en/v2)
 
-
-
 Some links to make my life easier:
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 * [Github Markdown](https://guides.github.com/features/mastering-markdown/)
