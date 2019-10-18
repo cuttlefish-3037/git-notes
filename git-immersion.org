@@ -32,4 +32,21 @@
 ** Doel
    Maak een git repository
 ** Create a "Hello, World" program
-   
+   #+BEGIN_SRC sh
+   mkdir hello
+   cd hello
+   #+END_SRC
+
+   Plaats de volgende code in het bestand hello.rb:
+   #+BEGIN_SRC ruby
+   puts "Hello, World"
+   #+END_SRC
+** Create repository
+   #+BEGIN_SRC sh
+   git init
+   #+END_SRC
+** Add the program to the repository
+   #+BEGIN_SRC sh
+   git add hello.rb
+   git commit -m "First commit"
+   #+END_SRC
