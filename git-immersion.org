@@ -1,0 +1,7 @@
+#+TITLE: Git Immersion
+
+* TODO Formuleer vraag/antwoord combinaties voor org-drill
+* Bronnen
+  [[http://gitimmersion.com/index.html][Git Immersion]]
+* Lab 1 Setup
+  
