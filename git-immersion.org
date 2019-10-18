@@ -22,3 +22,14 @@
    git config --global core.autocrlf input
    git config --global core.safecrlf true
    #+END_SRC
+* Lab 2 More Setup
+** Doel
+   Download en installeer het materiaal waar git immersion op is
+   gebaseerd.
+** Download materiaal
+   [[http://gitimmersion.com/git_tutorial.zip][git immersion tutorial]]
+* Lab 3 Create a Project
+** Doel
+   Maak een git repository
+** Create a "Hello, World" program
+   
