@@ -1,7 +1,24 @@
 #+TITLE: Git Immersion
 
 * TODO Formuleer vraag/antwoord combinaties voor org-drill
+* TODO Inventariseer mogelijkheid in Emacs om snippets gebruiken
 * Bronnen
   [[http://gitimmersion.com/index.html][Git Immersion]]
 * Lab 1 Setup
-  
+** Doel
+   Configureer git en ruby
+** Configureer naam en email
+   Een system wide configuratie voor git van je naam en email kun je
+   op de volgende manier uitvoeren:
+
+   #+NAME: git_global_config
+   #+BEGIN_SRC sh
+   git config --global user.name "your name"
+   git config --global user.email "your_email@whatever.com"
+   #+END_SRC
+** Configureer line ending voorkeuren
+   #+NAME: git_linending_config
+   #+BEGIN_SRC sh
+   git config --global core.autocrlf input
+   git config --global core.safecrlf true
+   #+END_SRC
