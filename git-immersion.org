@@ -1,7 +1,8 @@
 #+TITLE: Git Immersion
 
-* TODO Formuleer vraag/antwoord combinaties voor org-drill
-* TODO Inventariseer mogelijkheid in Emacs om snippets gebruiken
+* To do items
+** TODO Formuleer vraag/antwoord combinaties voor org-drill
+** TODO Inventariseer mogelijkheid in Emacs om snippets gebruiken
 * Bronnen
   [[http://gitimmersion.com/index.html][Git Immersion]]
 * Lab 1 Setup
