@@ -2,7 +2,8 @@
 
 Git is probably the most used [version control
 software](https://en.wikipedia.org/wiki/Version_control) on the
-planet. Unfortunately it is rather complicated. My plan for learning
+planet. Unfortunately it is rather complicated. This repository
+contains my notes (in Dutch) on my git journey. My plan for learning
 git is reading some articles and possibly a book:
 
 1. [Software Carpentry Project - Version Control with Git](https://swcarpentry.github.io/git-novice/)
